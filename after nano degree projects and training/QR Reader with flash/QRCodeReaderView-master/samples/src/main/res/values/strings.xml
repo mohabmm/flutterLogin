@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">QR-Reader</string>
+  <string name="hello_world" translatable="false">Hello world!</string>
+  <string name="on_off"> On/Off FlashLight</string>
+
+  <string name="menu_settings" translatable="false">Settings</string>
+  <string name="On_Off_QR_decoding">On/Off QR Decoding</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700941675761",
+    "firebase_url": "https://test-chat-f050b.firebaseio.com",
+    "project_id": "test-chat-f050b",
+    "storage_bucket": "test-chat-f050b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700941675761:android:269ceaf5dfa754e7",
+        "android_client_info": {
+          "package_name": "com.example.mohabmagdy.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700941675761-riqs413t1eupo3fmvbppiaajfo1asdsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohabmagdy.myapplication",
+            "certificate_hash": "b90b84f6533f955079729318d63c05a639129bcd"
+          }
+        },
+        {
+          "client_id": "700941675761-qb9eed49r1982kbic2sv3gu445td54go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbb9wW5gns9MOtQ66mtk9Eyy7UvkrYKwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700941675761-qb9eed49r1982kbic2sv3gu445td54go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

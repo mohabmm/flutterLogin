@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/hamza"
+    android:layout_height="match_parent"
+    >
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+
+        <info.hoang8f.widget.FButton
+            android:layout_width="0dp"
+
+            app:fButtonColor="@color/holo_red_color"
+            android:id="@+id/signupbutton"
+            android:text="@string/sign_up"
+            android:textColor="@color/black_color"
+            android:layout_weight="1"
+            app:shadowHeight="5dp"
+            android:layout_margin="8dp"
+            app:cornerRadius="4dp"
+            app:shadowColor="@color/black_color"
+            android:layout_height="wrap_content" />
+
+
+        <info.hoang8f.widget.FButton
+            android:layout_width="0dp"
+
+            app:fButtonColor="@color/button_color"
+            android:id="@+id/signinbutton"
+            android:text="@string/sign_in"
+            android:textColor="@android:color/black"
+            android:layout_weight="1"
+            app:shadowHeight="5dp"
+            android:layout_margin="8dp"
+            app:cornerRadius="4dp"
+            app:shadowColor="@android:color/black"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,82 @@
+{
+	"Category": {
+
+		"01": {
+			"Name": "Savory Feteer",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/iohdavcxsm5qm2t9.jpg"
+		},
+		"02": {
+			"Name": "Sweet Feteer",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/ih7yordqyd3x47vi.jpg"
+		},
+		"03": {
+			"Name": "Meshaltet",
+			"Image": "http://1.bp.blogspot.com/-tIWC-_UhhoI/VpAU2QIiUuI/AAAAAAAACIs/c0c_Z7-uFo8/s1600/Fetir%2Baus%2Bdem%2BOfen%2BFeteer%2B%25C3%2584gypten.jpg"
+		},
+		"04": {
+			"Name": "Pizza",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/ja9q1s7ltzm8ia4i.jpg"
+		},
+		"05": {
+			"Name": "Grills",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/jdyudtraiyjpp66r.jpg"
+		},
+
+		"06": {
+			"Name": "Tray",
+			"Image":"https://s3.amazonaws.com/elmenusV3/Photos/Normal/iocm1m33drj54s4i.jpg?id=35973"
+			},
+		"07": {
+			"Name": "Mix Grill",
+			"Image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/17/54/72/mix-grill-platter.jpg"
+		},
+		"08": {
+			"Name": "Crepe",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/i7q77x33kewv1jor.jpg"
+		},
+		"09": {
+			"Name": "Italian Hawawshi",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/ix9jph17tsps0pb9.jpg"
+		},
+
+		"10": {
+			"Name": "pasta",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/ip2d3f66c10s5rk9.jpg"
+		},
+		"11": {
+			"Name": "Rice",
+			"Image": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/isvjxd9c6l84cxr.jpg"
+		},
+		"12": {
+			"Name": "Sandwiches",
+			"Image": "http://prego-foods.com/Data/HTMLEditor/Images/kofta_03.png"
+		},
+		"13": {
+			"Name": "hawashi",
+			"Image": "https://i.ytimg.com/vi/PAd3Icziprc/hqdefault.jpg"
+		},
+		"14": {
+			"Name": "Fries",
+			"Image": "https://www.parhlo.com/wp-content/uploads/2017/06/maxresdefault-2.jpg"
+		},
+		"15": {
+			"Name": "salads",
+			"Image":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/17/1/FNM080109Insert045_wall_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1382538871236.jpeg"
+		},
+		"16": {
+			"Name": "Drinks",
+			"Image": "https://store.schoolspecialty.com/OA_HTML/xxssi_ibeGetWCCImage.jsp?docName=F4120624&Rendition=Large"
+		},
+		"17": {
+			"Name": "Additions",
+			"Image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/3/29/0/GC_sauce-glossary-kansas-city_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371591483764.jpeg"
+		}
+	},
+
+	"User": {
+		"0111391083": {
+			"name": "mohab",
+			"password": "1234"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Safety Apis </string>
+    <string name="run_safetynet_test_button">Run SafetyNet test</string>
+    <string name="request_safetynet_recaptcha_api">Request SafetyNet reCAPTCHA API</string>
+    <string name="safetynet_attestation_api">SafetyNet Attestation API</string>
+    <string name="recaptcha">Safety Net Recaptcha</string>
+    <string name="recaptchamessage">A free service that uses an advanced risk analysis engine to protect your app from malicious traffic,spam and other abusive actions</string>
+    <string name="safebrwosingmessage">Api to determine whether a particular URL has been classified by Google as a known threat.</string>
+    <string name="verifyappmessage">API allow your app to interact programmatically with Google Play Protect feature on a device protecting the device against potentially harmful apps.</string>
+    <string name="attestationmessage">Helps you assets the security and compatibility of the Android Environments in whitch your apps run. you can use this API to analyze devices that have installed your app .</string>
+</resources>

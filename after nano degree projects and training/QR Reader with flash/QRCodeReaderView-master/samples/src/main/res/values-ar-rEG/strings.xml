@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR-ReaderExample</string>
+    <string name="On_Off">شغل\اطفي الضوء</string>
+    <string name="On_Off_QR_decoding">شغل\اطفي المبرمج</string>
+</resources>
